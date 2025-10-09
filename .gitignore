@@ -57,7 +57,6 @@ build/
 dist/
 
 # IDE and editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -113,3 +112,7 @@ coverage.xml
 *.tar.gz
 *.rar
 !weights/best_pt.zip
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
